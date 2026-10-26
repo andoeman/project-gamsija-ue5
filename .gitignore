@@ -1,0 +1,47 @@
+# Local build output and engine-generated files
+.build/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# This repository publishes source and documentation only
+Content/
+Resources/
+*.uproject
+*.uasset
+*.umap
+*.ubulk
+*.uexp
+*.pak
+*.ucas
+*.utoc
+*.fbx
+*.FBX
+*.blend
+*.gltf
+*.glb
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.log
+
+# Local credentials and machine settings
+.env
+.env.*
+*.pem
+*.key
+*.user
+*.local.json

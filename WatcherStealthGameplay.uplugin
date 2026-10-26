@@ -1,0 +1,26 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0-dev",
+  "FriendlyName": "Watcher Stealth Gameplay",
+  "Description": "Project-owned sight, spatial-query, health and optional combat integration prototypes. Source only; external game assets are not included.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectGamsija contributors",
+  "EngineVersion": "5.8.0",
+  "CanContainContent": false,
+  "EnabledByDefault": false,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "WatcherShooter",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    { "Name": "EnhancedInput", "Enabled": true },
+    { "Name": "MotionWarping", "Enabled": true },
+    { "Name": "Niagara", "Enabled": true }
+  ]
+}

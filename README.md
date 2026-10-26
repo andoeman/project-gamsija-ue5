@@ -1,4 +1,4 @@
-# Watcher Stealth Gameplay
+# Project independent Stealth Gameplay
 
 A small, source-only Unreal Engine plugin extracted from project-owned local integration work. It provides sight/spatial queries, an Actor health component, and an optional combat adapter prototype. The local integration target is **Unreal Engine 5.8.3**; this standalone plugin extraction is **work in progress**. A standalone plugin build and gameplay validation are pending.
 
